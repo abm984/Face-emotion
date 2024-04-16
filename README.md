@@ -40,7 +40,5 @@ python main.py
 
 ![image](https://github.com/abm984/Face-emotion/assets/98699771/447d17d3-c2eb-4d02-912a-d9bf0167f2ed)
 
-![image](https://github.com/abm984/Face-emotion/assets/98699771/a6c20b45-231a-423f-9bae-95a4e765906b)
 
-![image](https://github.com/abm984/Face-emotion/assets/98699771/b729986f-adff-4998-98c2-a35f9eb1c834)
 
